@@ -1,0 +1,11 @@
+hello   xin chào
+teacher	giáo viên
+fruit   hoa quả
+red màu đỏ
+blue    màu xanh
+yellow	màu vàng
+Orange	màu cam
+father	bố
+mother	mẹ
+violet	màu tím
+school	trường

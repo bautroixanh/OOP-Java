@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="JavaFX.jnlp">
+  <information>
+    <title>JavaFX</title>
+    <vendor>Unknown</vendor>
+    <description>JavaFX</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="JavaFX.jar" size="1089076" download="eager" />
+    <jar href="java-json.jar" size="84697" download="eager" />
+    <jar href="jlayer-1.0.1.jar" size="143624" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="duykhanh.Main"  name="JavaFX" />
+  <update check="background"/>
+</jnlp>
